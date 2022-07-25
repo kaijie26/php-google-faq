@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+/* COMMON */
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
 /* Header */
 header img{
     width: 100px;
@@ -47,4 +53,13 @@ header li a{
     color: #4d7adb;
     border-bottom: 3px solid #4d7adb;
     padding-bottom: 8px;
+}
+
+/* Main */
+main{
+    padding-top: 50px;
+}
+
+main h3{
+    margin: 20px 0 ;
 }
